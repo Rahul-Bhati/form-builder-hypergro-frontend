@@ -58,7 +58,7 @@ const HomePage = () => {
         <div className="container mx-auto px-4 py-4" data-id="rkkf4ngwz" data-path="src/pages/HomePage.tsx">
           <div className="flex justify-between items-center" data-id="i9n32121z" data-path="src/pages/HomePage.tsx">
             <div className="flex items-center space-x-2" data-id="x8y9r1iyi" data-path="src/pages/HomePage.tsx">
-              <FileText className="h-8 w-8 text-blue-600" data-id="agviiqu0z" data-path="src/pages/HomePage.tsx" />
+            <img src="./logo.png" alt="" className="h-10 w-10 text-blue-600"/>
               <h1 className="text-2xl font-bold text-gray-900" data-id="50cyji69i" data-path="src/pages/HomePage.tsx">FormCraft</h1>
             </div>
             <nav className="flex items-center space-x-4" data-id="cty3a3x1u" data-path="src/pages/HomePage.tsx">
@@ -178,7 +178,7 @@ const HomePage = () => {
         <div className="container mx-auto px-4" data-id="46gkcj5py" data-path="src/pages/HomePage.tsx">
           <div className="flex flex-col md:flex-row justify-between items-center" data-id="1j9j11liz" data-path="src/pages/HomePage.tsx">
             <div className="flex items-center space-x-2 mb-4 md:mb-0" data-id="af0tgcp3s" data-path="src/pages/HomePage.tsx">
-              <FileText className="h-6 w-6 text-blue-600" data-id="ur2i5lmk0" data-path="src/pages/HomePage.tsx" />
+              <img src="./logo.png" alt="" className="h-10 w-10 text-blue-600"/>
               <span className="text-lg font-semibold text-gray-900" data-id="aodt1a7nx" data-path="src/pages/HomePage.tsx">FormCraft</span>
             </div>
             <p className="text-gray-500 text-center md:text-right" data-id="8280k35rm" data-path="src/pages/HomePage.tsx">
